@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\be-dozun-tasks.props" />
+</Project>
