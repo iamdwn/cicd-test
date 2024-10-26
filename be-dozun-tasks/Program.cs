@@ -28,9 +28,10 @@ namespace be_dozun_tasks
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.UseSwagger();
-                app.UseSwaggerUI();
             }
+
+            app.UseSwagger();
+            app.UseSwaggerUI();
 
             // Shows UseCors with CorsPolicyBuilder
 
