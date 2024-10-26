@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("5d154dea-6f33-452c-82d1-6b737798a41f")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("be-dozun-tasks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80636b6d114f14a90483af19d30da6d4c50d949f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae4b64e7ae309a26d6ce0b2d7324d6f0816ce23a")]
 [assembly: System.Reflection.AssemblyProductAttribute("be-dozun-tasks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("be-dozun-tasks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

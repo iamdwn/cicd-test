@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uZQIWJ2Y070=",
+  "dgSpecHash": "3J3K8XY38Xw=",
   "success": true,
-  "projectFilePath": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.projects\\.personal\\dozun-tasks\\dozun-tasks\\back-end\\be-dozun-tasks\\be-dozun-tasks\\be-dozun-tasks.csproj",
+  "projectFilePath": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.demo\\cicd-demo\\be-dozun-tasks\\be-dozun-tasks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\truon\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -52,6 +52,7 @@
     "C:\\Users\\truon\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\truon\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\truon\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",

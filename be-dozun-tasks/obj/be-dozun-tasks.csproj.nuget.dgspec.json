@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.projects\\.personal\\dozun-tasks\\dozun-tasks\\back-end\\be-dozun-tasks\\be-dozun-tasks\\be-dozun-tasks.csproj": {}
+    "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.demo\\cicd-demo\\be-dozun-tasks\\be-dozun-tasks.csproj": {}
   },
   "projects": {
-    "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.projects\\.personal\\dozun-tasks\\dozun-tasks\\back-end\\be-dozun-tasks\\be-dozun-tasks\\be-dozun-tasks.csproj": {
+    "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.demo\\cicd-demo\\be-dozun-tasks\\be-dozun-tasks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.projects\\.personal\\dozun-tasks\\dozun-tasks\\back-end\\be-dozun-tasks\\be-dozun-tasks\\be-dozun-tasks.csproj",
+        "projectUniqueName": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.demo\\cicd-demo\\be-dozun-tasks\\be-dozun-tasks.csproj",
         "projectName": "be-dozun-tasks",
-        "projectPath": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.projects\\.personal\\dozun-tasks\\dozun-tasks\\back-end\\be-dozun-tasks\\be-dozun-tasks\\be-dozun-tasks.csproj",
+        "projectPath": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.demo\\cicd-demo\\be-dozun-tasks\\be-dozun-tasks.csproj",
         "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.projects\\.personal\\dozun-tasks\\dozun-tasks\\back-end\\be-dozun-tasks\\be-dozun-tasks\\obj\\",
+        "outputPath": "D:\\Docm\\Dev\\.project\\dozun\\.dozun\\.demo\\cicd-demo\\be-dozun-tasks\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -77,6 +77,10 @@
             "Microsoft.Extensions.Configuration.Json": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.20.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
